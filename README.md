@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @evgkhm
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang
-- 📫 How to reach me evgkhm@mail.ru
+- 🧑‍💻 C and Go developer
 
 <!---
 evgkhm/evgkhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
