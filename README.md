@@ -1,3 +1,3 @@
 - 🧑‍💻 C and Go developer
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=evgkhm&theme=default)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=evgkhm&theme=default)](https://github.com/evgkhm)
